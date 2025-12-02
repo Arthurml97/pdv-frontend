@@ -19,7 +19,7 @@ Interface de Ponto de Venda moderna desenvolvida com **React + Vite**. Este proj
 ## Screenshots & Vídeo Introdutório
 Abaixo, você conseguirá ver o vídeo e o Cupom Fiscal:
 
-https://github.com/user-attachments/assets/5b0c6293-d66f-4be4-829c-327c865c4fe3
+https://github.com/user-attachments/assets/677dcae8-39e7-4cf3-9f1a-747549566be0
 
 ![alt text](image.png)
 
